@@ -82,7 +82,7 @@
     "typescript": "^5.3.3",
     "update-dotenv": "^1.1.1",
     "url-pattern": "^1.0.3",
-    "webpack": "^5.88.0",
+    "webpack": "^5.98.0",
     "webpack-cli": "^4.8.0",
     "webpack-merge": "^5.8.0",
     "yaml": "^2.0.0-11",
