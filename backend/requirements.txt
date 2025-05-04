@@ -28,3 +28,4 @@ types-pyYAML
 remotezip
 json-stream
 aiostream
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
